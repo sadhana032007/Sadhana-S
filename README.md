@@ -1,15 +1,15 @@
 # Sadhana-S
-# Hi, I'm Sadhana S 👋
+# Hi, I'm Sadhana S 
 
 ### Artificial Intelligence & Data Science Student
 
 I'm an enthusiastic AI & Data Science student passionate about learning new technologies and building practical solutions using Artificial Intelligence, Machine Learning, and programming.
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
-- 🌱 Currently learning Python, Java, Machine Learning, and Data Analytics
-- 🤖 Interested in AI applications, data-driven solutions, and intelligent systems
-- 💡 Enjoy solving problems and developing innovative projects
-- 🎯 Goal: To become a skilled AI professional and contribute to meaningful technology projects
+-  Pursuing B.Tech in Artificial Intelligence and Data Science
+-  Currently learning Python, Java, Machine Learning, and Data Analytics
+-  Interested in AI applications, data-driven solutions, and intelligent systems
+-  Enjoy solving problems and developing innovative projects
+-  Goal: To become a skilled AI professional and contribute to meaningful technology projects
 
 ### Connect with Me
 
